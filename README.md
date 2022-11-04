@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vins
-- 🧑🏻‍💻 I’m TL & FE Developer - React Lover 
+- 🧑🏻‍💻 I’m TL & FE Developer - React lover 
 - 🌱 I’m currently learning Node
 - 🤸🏻‍♂️ I'm calisthenics athlete - Fitness lover
 - 📫 You can reach me on :
