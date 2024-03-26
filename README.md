@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Vins
-- 🧑🏻‍💻 I’m software engineer
-- 🌱 I’m currently learning Node
+- 🧑🏻‍💻 I'm currently working as Software Engineer
 - 🤸🏻‍♂️ I'm calisthenics athlete - Fitness lover
